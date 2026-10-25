@@ -1,0 +1,4 @@
+*.o
+*.out
+bare_brothers
+.DS_Store
